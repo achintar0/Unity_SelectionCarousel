@@ -16,3 +16,5 @@ This can be used in multiple projects such as: A character selection screen, an 
 5. Adjust your code, so whenever you want to move to the next item in the carousel, by calling the NextTarget() or PrevTarget() functions.
 
 
+## Class-Diagram:
+![untiy-target-carousel](https://github.com/user-attachments/assets/0ed23c6f-6cb6-4307-9faf-394b3167c558)
